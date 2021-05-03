@@ -6,7 +6,6 @@
 #include "GameClassIntro.h"
 #include "GameClassHowToPlay.h"
 #include "GameClassStage1.h"
-#include "GameClassStage2.h"
 #include "GameClassEnding.h"
 #include "SDL_ttf.h"
 
