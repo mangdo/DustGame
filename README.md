@@ -5,7 +5,7 @@
 <br>
 
 ## 1. 제작 기간 & 참여 인원
-- 2019년 5월 17일 ~ 2018년 5월 29일
+- 2019년 5월 17일 ~ 2019년 5월 29일
 - 개인 프로젝트
 
 <br>
@@ -24,7 +24,7 @@
 ## 4. 게임 플레이 영상
 <img src ="https://user-images.githubusercontent.com/70243735/116843665-95aa6a00-ac1b-11eb-9e9d-3aa69fa03888.gif" width ="800px">
 
-[![https://youtu.be/hVcaOJnIQr0](https://user-images.githubusercontent.com/70243735/116536038-7069e300-a91f-11eb-8c2d-d0f151aea5e4.PNG)](https://youtu.be/hVcaOJnIQr0)
+[![https://youtu.be/s-zzxMNEUgE](https://user-images.githubusercontent.com/70243735/117240571-152e7800-ae6c-11eb-8a08-178b1bde8d16.png)](https://youtu.be/s-zzxMNEUgE)
 
 <br>
 
